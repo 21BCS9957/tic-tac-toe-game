@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
+A modern, interactive browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ## Play Live
 
@@ -8,33 +8,40 @@ A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and Ja
 
 ## Features
 
-- Classic 3x3 Tic Tac Toe gameplay
-- Alternating turns between X and O players
-- Winner detection with victory announcement
-- Reset button to start a new game
-- Responsive design that works on different screen sizes
+- Classic 3x3 Tic Tac Toe gameplay with modern UI
+- Customizable player names
+- Score tracking system
+- Game status messages and turn indicators
+- Visual animations and highlighting of winning combinations
+- Sound effects for moves, wins, and draws
+- Responsive design that works on all devices
+- "New Game" option to reset scores and player names
+- "Reset" button to start a new round
 
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS3 with animations and transitions
 - JavaScript (Vanilla)
+- Web Audio API for sound effects
 
 ## How to Play
 
 1. Visit the [live game](https://21BCS9957.github.io/tic-tac-toe-game) or open `index.html` in your web browser
-2. The game starts with Player O taking the first turn
-3. Click on any empty square to place your mark (O or X)
-4. Players alternate turns until someone wins or the board is full
-5. If a player gets three marks in a row (horizontally, vertically, or diagonally), they win
-6. Click the "reset" button to start a new game at any time
+2. Enter custom names for Player O and Player X (or use defaults)
+3. Click "Start Game" to begin
+4. The active player is highlighted and the game status shows whose turn it is
+5. Click on any empty square to place your mark
+6. The first player to get three marks in a row (horizontally, vertically, or diagonally) wins
+7. When a player wins or the game ends in a draw, scores are updated automatically
+8. Click "Play Again" to start a new round or "New Game" to reset all scores
 
 ## Project Structure
 
-- `index.html` - Main HTML structure
-- `sat.html` - Original HTML file (duplicate of index.html)
-- `js.css` - CSS styling for the game
-- `script.js` - JavaScript logic for game functionality
+- `index.html` - Main HTML structure with game UI
+- `sat.html` - Original HTML file (kept for compatibility)
+- `js.css` - CSS styling with animations and responsive design
+- `script.js` - Enhanced JavaScript with player tracking and sound effects
 
 ## Screenshots
 
@@ -49,11 +56,13 @@ A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and Ja
 
 ## Future Enhancements
 
-- Add player score tracking
-- Implement AI opponent
-- Add sound effects
-- Add game difficulty levels
-- Support for larger board sizes
+- Implement AI opponent with multiple difficulty levels
+- Add local multiplayer mode
+- Create theme options (day/night, different color schemes)
+- Add confetti animation for winners
+- Support for larger board sizes (4x4, 5x5)
+- Add game history tracking
+- Implement online multiplayer
 
 ## License
 
