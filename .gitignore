@@ -1,0 +1,21 @@
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Node dependencies if added in future
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnp/
+.pnp.js
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo 
