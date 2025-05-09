@@ -2,6 +2,10 @@
 
 A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
+## Play Live
+
+🎮 [Play the game online!](https://21BCS9957.github.io/tic-tac-toe-game)
+
 ## Features
 
 - Classic 3x3 Tic Tac Toe gameplay
@@ -18,7 +22,7 @@ A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and Ja
 
 ## How to Play
 
-1. Open `sat.html` in your web browser
+1. Visit the [live game](https://21BCS9957.github.io/tic-tac-toe-game) or open `index.html` in your web browser
 2. The game starts with Player O taking the first turn
 3. Click on any empty square to place your mark (O or X)
 4. Players alternate turns until someone wins or the board is full
@@ -27,19 +31,20 @@ A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and Ja
 
 ## Project Structure
 
-- `sat.html` - Main HTML structure
+- `index.html` - Main HTML structure
+- `sat.html` - Original HTML file (duplicate of index.html)
 - `js.css` - CSS styling for the game
 - `script.js` - JavaScript logic for game functionality
 
 ## Screenshots
 
-![Initial Game Board](screenshots/Screenshot%202025-05-09%20at%204.27.12%20PM.png)
+![Initial Game Board](screenshots/initial-game.png)
 *Initial game board*
 
-![Game In Progress](screenshots/Screenshot%202025-05-09%20at%204.27.37%20PM.png)
+![Game In Progress](screenshots/game-in-progress.png)
 *Game in progress with some moves played*
 
-![Winner Announcement](screenshots/Screenshot%202025-05-09%20at%204.28.25%20PM.png)
+![Winner Announcement](screenshots/winner-announcement.png)
 *Game showing a winner announcement*
 
 ## Future Enhancements
