@@ -33,13 +33,13 @@ A simple, responsive browser-based Tic Tac Toe game built with HTML, CSS, and Ja
 
 ## Screenshots
 
-![Initial Game Board](screenshots/initial-game.png)
+![Initial Game Board](screenshots/Screenshot%202025-05-09%20at%204.27.12%E2%80%AF%20PM.png)
 *Initial game board*
 
-![Game In Progress](screenshots/game-in-progress.png)
+![Game In Progress](screenshots/Screenshot%202025-05-09%20at%204.27.37%E2%80%AF%20PM.png)
 *Game in progress with some moves played*
 
-![Winner Announcement](screenshots/winner-announcement.png)
+![Winner Announcement](screenshots/Screenshot%202025-05-09%20at%204.28.25%E2%80%AF%20PM.png)
 *Game showing a winner announcement*
 
 ## Future Enhancements
